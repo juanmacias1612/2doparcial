@@ -1,0 +1,36 @@
+1-a. Capa de Aplicación:
+HTTP-HTTPS-FTP -IMAP-POP3-DNS-Telnet-SNMP
+
+b. Capa de Transporte:
+
+TCP-UDP
+
+2- pueden conectarse en una red PAN:
+
+móviles: Teléfonos  y tablets 
+periféricos: Auriculares Bluetooth, impresoras inalámbricas y teclados
+portátiles: Relojes inteligentes, pulseras de fitness y otros wearables 
+
+4- nombre de red : FRTDF ALUMNOS
+	RANGO  C 
+   Dirección IPv4: 192.168.2.157
+   Mascara de subred: 255.255.252.0
+	
+7- lo que se debe configurara son  memoria la ram  y espacio de memoria
+
+8-paaS plataforma como sevicio  lo que proporciona entorno de desarrollo  completo  nivel de control sobre aplicaciones y daros desarrollar aplicaciones sin gestionar la infrastructura media centrado en desarrollo y despliegue de aplicaciones ejemplo serian google app egine ,herakou
+
+9-a. Rama: Una rama es una versión paralela del código dentro de un repositorio. Permite a los desarrolladores trabajar en características o correcciones de errores de manera independiente del resto del proyecto. Cuando la rama está lista y ha sido probada, se puede fusionar de nuevo en la rama principal (a menudo llamada "master" o "main"). Esto permite una gestión efectiva de diferentes versiones del proyecto y facilita el trabajo en equipo.
+
+b. Repositorio: Un repositorio es un lugar  donde se almacena y gestiona el código fuente de un proyecto. Puede contener archivos, historial de cambios, y otros recursos necesarios para el desarrollo del software. Los repositorios pueden ser locales  o remotos 
+
+Working Directory (Directorio de Trabajo): Aquí es donde empieza  en tu sistema local y lo vas modificando formando una estructura del futuro trabajo. en esta parte podemos decir que todavía no esta preparada para el commit  
+
+Staging Area (Área de Staging): Es un área intermedia donde puedes preparar los cambios que deseas incluir en el próximo commit. Los archivos que has modificado en el directorio de trabajo se pueden añadir al área de staging utilizando el comando git add.
+
+Repository (Repositorio): es el estado final  en que los archivos y cambios ya han sido cormidos y registrados en el historial de versiones de git ub
+
+2-clase a.red 8 24 bits de host
+ clase b 16 de bits y 16 de host
+clase c 24 red y 8 host 
+
